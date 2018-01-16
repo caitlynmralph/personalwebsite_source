@@ -48,16 +48,28 @@ googleAnalytics = "UA-112533031-1"
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
-      url = "blogs"
+      name = "About"
+      url = "about"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+      name = "Data Visualization"
+      url = "datavisualization"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "Writing"
+      url = "writing"
+      
+    [[params.navigation.links]]
+      name = "Music Industry"
+      url = "musicindustry"
+      
+    [[params.navigation.links]]
+      name = "Thesis"
+      url = "thesis"
+      
+    [[params.navigation.links]]
+      name = "Blog"
+      url = "blog"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -69,7 +81,7 @@ googleAnalytics = "UA-112533031-1"
     # Button Style 1
     [[params.navigation.button1]]
       name = "Get Started"
-      url = "blogs"
+      url = "about"
 
     # Button Style 2
     [[params.navigation.button2]]
@@ -95,37 +107,37 @@ googleAnalytics = "UA-112533031-1"
       title = "About"
       subtitle = "+ Curriculum Vitae"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "about"
 
     [[params.tiles.showcase]]
       title = "Data Visualization"
       subtitle = "Projects"
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "datavisualization"
 
     [[params.tiles.showcase]]
       title = "Writing"
       subtitle = "Published"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "writing"
 
     [[params.tiles.showcase]]
       title = "Music Industry"
       subtitle = "Experience"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
-
-    [[params.tiles.showcase]]
-      title = "Blog"
-      subtitle = "Coming Soon"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "musicindustry"
 
     [[params.tiles.showcase]]
       title = "Thesis"
       subtitle = "In Progress"
+      image = "pic05.jpg"
+      url = "thesis"
+
+    [[params.tiles.showcase]]
+      title = "Blog"
+      subtitle = "Coming Soon"
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "blog"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
