@@ -52,7 +52,7 @@ googleAnalytics = "UA-112533031-1"
       url = "about"
 
     [[params.navigation.links]]
-      name = "Data Visualization"
+      name = "Data Visualization + Analytics"
       url = "datavisualization"
 
     [[params.navigation.links]]
@@ -110,7 +110,7 @@ googleAnalytics = "UA-112533031-1"
       url = "about"
 
     [[params.tiles.showcase]]
-      title = "Data Visualization"
+      title = "Data Visualization + Analytics"
       subtitle = "Projects"
       image = "pic02.jpg"
       url = "datavisualization"
