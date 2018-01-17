@@ -152,7 +152,7 @@ googleAnalytics = "UA-112533031-1"
     enable = true
     title = "My Story"
     subtitle1a = """Ever since I saw Green Day's """ 
-    knowyourenemy = "https://www.youtube.com/watch?v=qUEw35GFNCs"
+    knowyourenemy = "https://www.youtube.com/watch?v=9IclmVdWNbI"
     subtitle1b = """ music video on TV the summer before 8th grade, I’ve been obsessed with music. I knew my talents weren’t in musical creation, however. I was a naturally analytical person—excelling in math and science before anything else. Yet, I was determined to do something with music, so I joined my middle school newspaper and started writing. Throughout high school, I kept writing and kept listening to music, all while doing four years of competitive science fair."""
     subtitle2a = """By halfway through my college career, I was a computer science major with """
     mrn = "https://www.mrn.org/"
