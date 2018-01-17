@@ -171,7 +171,7 @@ googleAnalytics = "UA-112533031-1"
     subtitle4a = """As I finished my internship at Polygraph, I had solidified my interest in applying data science and its related skills to creative pursuits, whether that be crafting a visual essay on """
     office = "https://pudding.cool/2017/08/the-office/"
     subtitle4b = """ or doing analytics work for the music industry. My knack for organization, numbers, working with people, and the like has led to an auxiliary but accompanying interest in artist management."""
-    subtitle5 = """This portfolio is a journey through my interdisciplinary journey. It displays my work in the various fields related to data storytelling. It also maintains a quiet (and under-construction) blog, (to be) populated with posts on technology (data and its tools), music (indie and punk, mostly British), and lifestyle (hobbies, such as running, bullet journaling, movies, and maybe even some style)."""
+    subtitle5 = """This portfolio is a journey through my interdisciplinary journey. It displays my work in the various fields related to data storytelling. It also maintains a quiet (and under-construction) blog, (to be) populated with posts on technology (data and its tools), music (indie and punk, mostly), and lifestyle (hobbies, such as running, movies, journaling, and secondhand clothes)."""
     buttonText = "Get Started"
     url = "#"
 

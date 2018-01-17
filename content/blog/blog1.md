@@ -2,7 +2,7 @@
 title: "R Blogdown + Hugo"
 description: ""
 slug: "blogdown"
-image: blog/pic11.jpg
+image: blog/pic12.jpg
 keywords: ""
 categories: 
     - ""
