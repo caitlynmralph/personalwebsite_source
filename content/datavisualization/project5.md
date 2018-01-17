@@ -1,21 +1,20 @@
 ---
-title: "How have Warped Tour’s genres evolved over time?"
-description: "A graphic for The Pudding."
-slug: "warpedtour"
+title: "The Office Dialogue in Five Charts"
+description: "A visual essay on The Pudding."
+slug: "theoffice"
 image: datavisualization/pic08.jpg
 keywords: ""
 categories: 
     - ""
     - ""
-date: 2018-01-17T21:28:43-05:00
+date: 2019-01-17T21:28:43-05:00
 draft: false
 ---
 
-<p>**“How have Warped Tour’s genres evolved over time?”**</br>
-<em>Summer 2017</em></br>
-<em>The Pudding</em></p>
+<p><em>Summer 2017</em></br>
+<em>The Pudding, in conjunction with Russel Goldberg</em></p>
 
-Pinpointed another interesting topic in pop culture, created a dataset through web scraping in Python, worked with the database in SQL, drew interesting conclusions, mocked up design ideas, coded a visualization in D3 with design assistance from Matt Daniels of The Pudding.
+Pinpointed an interesting topic in pop culture, created a dataset through web scraping in Python, worked with the database in SQL, drew interesting conclusions, programmed a Markov Chain text simulator, conducted sentiment analysis on large swaths of text data, mocked up design ideas, and worked with Russell Goldberg of The Pudding to make the graphics come to life.
 
-[See it here](https://twitter.com/puddingviz/status/872813765254934528)
+[See it here](https://pudding.cool/2017/08/the-office/)
 

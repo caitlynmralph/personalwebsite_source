@@ -1,7 +1,7 @@
 ---
-title: "The Office Dialogue in Five Charts"
+title: "How far is too far?"
 description: "A visual essay on The Pudding."
-slug: "theoffice"
+slug: "clinics"
 image: datavisualization/pic08.jpg
 keywords: ""
 categories: 
@@ -10,12 +10,10 @@ categories:
 date: 2018-01-17T21:28:43-05:00
 draft: false
 ---
-
-<p>**The Office Dialogue in Five Charts.**</br>
+<p><strong>An analysis of driving times to abortion clinics in the US.</strong></br>
 <em>Summer 2017</em></br>
-<em>The Pudding, in conjunction with Russel Goldberg</em></p>
+<em>The Pudding, in conjunction with Russel Goldberg and Amber Thomas</em></p>
 
-Pinpointed an interesting topic in pop culture, created a dataset through web scraping in Python, worked with the database in SQL, drew interesting conclusions, programmed a Markov Chain text simulator, conducted sentiment analysis on large swaths of text data, mocked up design ideas, and worked with Russell Goldberg of The Pudding to make the graphics come to life.
+Catalyzed work on this impactful essay, conducted weeks of background research to grasp such a complex and controversial topic, reached out and interviewed experts in the field, manually created complete datasets of abortion clinics locations and procedures in 12 states, and teamed up Russell Goldberg and Amber Thomas of The Pudding to complete the dataset. Provided advising as needed post-internship in September, until the article was published.
 
-[See it here](https://pudding.cool/2017/08/the-office/)
-
+[See it here](https://pudding.cool/2017/09/clinics/)
