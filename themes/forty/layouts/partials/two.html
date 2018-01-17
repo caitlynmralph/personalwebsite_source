@@ -1,13 +1,14 @@
 {{ "<!-- Two -->" | safeHTML}}
+
     <section id="two">
         <div class="inner">
             <header class="major">
                 <h2>{{ .Site.Params.Two.title}}</h2>
             </header>
-            <p>{{ .Site.Params.Two.subtitle1 }}</p>
-            <p>{{ .Site.Params.Two.subtitle2 }}</p>
-            <p>{{ .Site.Params.Two.subtitle3 }}</p>
-            <p>{{ .Site.Params.Two.subtitle4 }}</p>
+            <p>{{ .Site.Params.Two.subtitle1a }}<a href="{{ .Site.Params.Two.knowyourenemy}}">"Know Your Enemy"</a>{{ .Site.Params.Two.subtitle1b }}</p>
+            <p>{{ .Site.Params.Two.subtitle2a }}<a href="{{ .Site.Params.Two.mrn}}">two summer internships in computational neuroscience</a>{{ .Site.Params.Two.subtitle2b }}<a href="{{ .Site.Params.Two.ap}}">picking up a job</a>{{ .Site.Params.Two.subtitle2c }}</p>
+            <p>{{ .Site.Params.Two.subtitle3a }}<a href="{{ .Site.Params.Two.polygraph}}">Polygraph</a>{{ .Site.Params.Two.subtitle3b }}<a href="{{ .Site.Params.Two.pudding}}">The Pudding</a>{{ .Site.Params.Two.subtitle3c }}<a href="{{ .Site.Params.Two.clinics}}">two visual essays there</a>{{ .Site.Params.Two.subtitle3d }}<a href="{{ .Site.Params.Two.band}}">The 1975</a>{{ .Site.Params.Two.subtitle3e }}</p>
+            <p>{{ .Site.Params.Two.subtitle4a }}<a href="{{ .Site.Params.Two.office}}">The Office</a>{{ .Site.Params.Two.subtitle4b }}</p>
             <p>{{ .Site.Params.Two.subtitle5 }}</p>
             <ul class="actions">
                 <li><a href="{{ .Site.Params.Two.url | absURL}}" class="button next">{{ .Site.Params.Two.buttonText }}</a></li>
