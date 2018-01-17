@@ -1,7 +1,6 @@
 ---
 title: "Curriculum Vitae"
 slug: "about"
-image: about/pic07.jpg
 date: 2018-1-16T22:27:21-05:00
 draft: false
 ---
