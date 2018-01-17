@@ -9,13 +9,14 @@ draft: false
 
 ### EDUCATION
 
-**New College of Florida: The Honors College of Florida**
-Bachelor of Arts in Computer Science  
-*expected May 2018*
+<p><strong>New College of Florida: The Honors College of Florida</strong></br>
+Bachelor of Arts in Computer Science</br>
+Honors Thesis in Data Storytelling/Visualization</br>
+<em>expected May 2018</em></p>
 
-**Honors Thesis in Data Storytelling/Visualization**
-Cleveland State University 	Spring 2017
-*National Student Exchange*
+<p><strong>Cleveland State University</strong></br>
+National Student Exchange</br>
+<em>Spring 2017</em></p>
 
 ### RELEVANT COURSEWORK
 
