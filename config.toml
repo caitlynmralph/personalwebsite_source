@@ -150,12 +150,12 @@ googleAnalytics = "UA-112533031-1"
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "My Story"
+    subtitle1 = """Ever since I saw a Green Day music video on TV the summer before 8th grade, I’ve been obsessed with music. I knew my talents weren’t in musical creation, however. I was a naturally analytical person—excelling in math and science before anything else. Yet, I was determined to do something with music, so I joined my middle school newspaper and started writing. Throughout high school, I kept writing and kept listening to music, all while doing four years of competitive science fair."""
+    subtitle2 = """By halfway through my college career, I was a computer science major with two summer internships in computational neuroscience under my belt. Simultaneously, I kept writing and kept loving music, picking up a job on Alternative Press’ remote news team. Over the course of two years, I worked my way to the head of that news team and, while on an semester exchange in Cleveland, to the magazine office’s sole digital assistant, juggling a full-time job and full-time classes in journalism and computer science."""
+    subtitle3 = """When summer 2017 arrived, I began freelancing for AP, moved from Cleveland to New York City, and started an internship at data visualization studio Polygraph and its adjoining publication, The Pudding. I worked on two visual essays there and frequently assisted with client work at Google for YouTube Music and YouTube Culture and Trends. After the summer internship concluded, I returned to New College to finish my fourth and final year of undergrad. I’m currently writing a senior thesis, creating a visual essay, in the same vein as those on The Pudding, that chronicles the history of the 1975 [link] through data and interactive graphics."""
+    subtitle4 = """As I finished my internship at Polygraph, I had solidified my interest in applying data science and its related skills to creative pursuits, whether that be crafting a visual essay on The Office or doing analytics work for the music industry. My knack for organization, numbers, working with people, and the like has led to an auxiliary but accompanying interest in artist management, if the opportunity arises."""
+    subtitle5 = """This portfolio is a journey through my interdisciplinary journey. It displays my work in the various fields related to data storytelling. It also maintains a quiet and under-construction blog, (to be) populated with posts on technology (data and its tools), music (punk and indie), and lifestyle (hobbies, such as running, bullet journaling, movies, and maybe even some style)."""
     buttonText = "Get Started"
     url = "#"
 
