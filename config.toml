@@ -3,7 +3,7 @@ baseURL = "https://caitlynralph.github.io/"
 languageCode = "en-us"
 title = "Caitlyn"
 theme = "forty"
-publishDir = "/Users/caitlynralph/Downloads/personalwebsite/caitlynralph.github.io"
+publishDir = "/Users/caitlynralph/Documents/portfolio/caitlynralph.github.io"
 
 disqusShortname = "caitlynralph"
 
@@ -70,6 +70,10 @@ googleAnalytics = "UA-112533031-1"
     [[params.navigation.links]]
       name = "Blog"
       url = "blog"
+      
+    [[params.navigation.links]]
+      name = "Typography + Visual Design"
+      url = "typo"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -94,7 +98,7 @@ googleAnalytics = "UA-112533031-1"
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Caitlyn"
-    subtitle = "CODER, WRITER, GREEN TEA DRINKER"
+    subtitle = ""
     buttonText = "Get Started"
 
 
@@ -138,6 +142,12 @@ googleAnalytics = "UA-112533031-1"
       subtitle = "Coming Soon"
       image = "pic06.jpg"
       url = "blog"
+      
+    [[params.tiles.showcase]]
+      title = "Typography + Visual Design"
+      subtitle = "Work from Parsons School of Design"
+      image = "pic06.jpg"
+      url = "typo"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
